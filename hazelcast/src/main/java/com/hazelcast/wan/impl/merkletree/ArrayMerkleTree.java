@@ -84,6 +84,7 @@ public class ArrayMerkleTree extends AbstractMerkleTreeView implements MerkleTre
 
     /**
      * Footprint holds the total memory footprint of the Merkle tree.
+     * zwt: 注解
      */
     private final long footprint;
 
